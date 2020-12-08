@@ -5,3 +5,4 @@
   - [3. Linked List](https://mirdex.github.io/Data_Structure/3.%20LinkedList(Q).slides.html)
 
 ## Algorithm
+  - [1. Sort](https://mirdex.github.io/Data_Structure/1.%20Sort(Q).slides.html)
